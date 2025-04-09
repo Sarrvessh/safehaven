@@ -57,7 +57,7 @@ const Footer = () => {
             <p className="text-gray-300">
               Developed By
               <br />
-              Hari Prasad M
+              Sarvesh PV
               <br />
               Coimbatore Institute of Technology,
               <br />
